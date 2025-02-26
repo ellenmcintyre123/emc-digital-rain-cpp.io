@@ -8,6 +8,7 @@ categories: demo
 As part of my fourth year C++ module we were tasked with creating a unique Digtial Rain Project
 
 ## *Introduction* 
+When brainstorming project ideas, we were shown examples from past years for inspiration. This is where I discovered the concept for my first main component: colors. I knew I wanted a bright, random color display, which kickstarted my search for a way to bring this vision to life. I wanted something unique, something I hadn’t encountered during my research. Eventually, I settled on the idea of using downward slashes (|), which I felt would create a realistic, fast-paced downpour—something common in Ireland.
 ## *Design & Reaserch*
 ## *Algorithms*
 ## *Demo*
