@@ -1,13 +1,17 @@
 ---
 layout: post
-title: A Project in Modern C++
+title: *My Digital Rain C++ Project*
 tags: cpp coding project
 categories: demo
 ---
 
-This is my first paragraph...
+As part of my fourth year C++ module we were tasked with creating a unique Digtial Rain Project
 
-## This is a Heading
+## *Introduction* 
+## *Design & Reaserch*
+## *Algorithms*
+## *Demo*
+## *References*
 
 This is a paragraph. Add an empty line to start a new paragraph.
 
