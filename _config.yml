@@ -1,9 +1,9 @@
-# Site settings
+len# Site settings
 title: Digital Rain Modern C++ Project Blog
 author:
-  name: Michelle Lynch
+  name: Ellen McIntyre
   email: your-email@domain.com
-description: "A blog."
+description: "My Digital Rain blog."
 
 # Build settings
 remote_theme: jekyll/minima
