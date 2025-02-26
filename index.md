@@ -15,7 +15,7 @@ https://sarahmatu.github.io/DigiRainProject/demo/2024/03/11/DigiRainProject.html
 
 I wanted to have random colour pattern over picked and hardcoded colours. 
 
-## *Algorithms*
+## *Algorithms/ Vectors/ Iterators*
 ## *Demo*
 ## *References*
 
