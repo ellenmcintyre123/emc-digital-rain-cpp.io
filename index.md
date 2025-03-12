@@ -32,4 +32,4 @@ This is the code to pick the colours used on the project using [ANSI colour](htt
 This section of code changes the text colour in the terminal, the colour number is used to pick a specific colour and the '\33' and 'm' tells the terminal to change the colour. 
 
 
-<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/final.png" width="800" height="200">
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/final.png" width="500" height="400">
