@@ -25,4 +25,3 @@ this is the code to pick the colours used on the project using ANSI colours
 
 Code can be highlighted with 'backticks'.
 
-<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/th.jpg" width="300" height="300">
