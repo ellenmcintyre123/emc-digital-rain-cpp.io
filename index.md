@@ -13,7 +13,7 @@ One of the first things I found in my research was a previous student’s blog, 
 [Sarahs's blog](https://sarahmatu.github.io/DigiRainProject/)
 
 I wanted to have random colour pattern over picked and hardcoded colours. I ended up having a block of different colours cascading down the screen. While this wasn’t my original idea, I ended up liking it more than the idea of random colors scattered all together.
-Here’s the first draft of my project, where I focused on figuring out how the slashes looked falling down the screen, as well as their speed and size. Once I was happy with my understanding, I started a new project to add the features I wanted.
+Here’s the first draft of my project, where I focused on figuring out how the slashes looked falling down the screen, as well as their speed and size. Once I was happy with my understanding, I started a new project to makke it unique to me and add in my ideas with the colours.
 
 
 <img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstdraft.png" width="400" height="400">
