@@ -12,7 +12,11 @@ This is the first thing i found in my reaserch, it is a previous students blog w
 [Sarahs's blog](https://sarahmatu.github.io/DigiRainProject/)
 
 I wanted to have random colour pattern over picked and hardcoded colours. I ended up having a block of different colours cascading down the screen, while this was not my original idea I ended up liking it more then the idea of random colours all together 
+
+This is my first draft of my project, to figure out how the slashes look falling down the screen, the speed and size i need for the project aswell, once i was happy with my knowledge base i started a new project and started to add the features i wanted. 
 <img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstdraft.png" width="400" height="400">
+
+T used AI to help me with my idea of the fading colours down the screen, I gave it my orginal code and asked for the colours to be added, this is what it came back with and althought it was not exactly that i had in my head i ended up prefering it and stuck with it, I wanted to understand what the added colour code did and take snippets of the code and explain it.
 
 **Code Snipet for colour**
 
@@ -21,8 +25,11 @@ I wanted to have random colour pattern over picked and hardcoded colours. I ende
 
 This is the code to pick the colours used on the project using [ANSI colour](https://ss64.com/nt/syntax-ansi.html) with red, green, yellow, blue, megenta and cyan being the 6 colour blocks shown 
 
-## *Algorithms/ Vectors/ Iterators*
-## *Demo*
 
-Code can be highlighted with 'backticks'.
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/second.png" width="800" height="200">
 
+
+This section of code changes the text colour in the terminal, the colour number is used to pick a specific colour and the '\33' and 'm' tells the terminal to change the colour. 
+
+
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/final.png" width="800" height="200">
