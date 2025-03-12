@@ -16,7 +16,7 @@ This is the first thing i found in my reaserch, it is a previous students blog w
 I wanted to have random colour pattern over picked and hardcoded colours. I ended up having a block of different colours cascading down the screen, while this was not my original idea I ended up liking it more then the idea of random colours all together 
 
 *Code Snipet for colour*
-<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstcodesnippet.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstcodesnippet.png" width="500" height="300">
 
 ## *Algorithms/ Vectors/ Iterators*
 ## *Demo*
