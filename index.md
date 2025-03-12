@@ -16,10 +16,10 @@ I wanted to have random colour pattern over picked and hardcoded colours. I ende
 
 **Code Snipet for colour**
 
-<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/redofirst.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/first.png" width="400" height="200">
 
 
-This is the code to pick the colours used on the project using [ANSI colour](https://ss64.com/nt/syntax-ansi.html) with red, green, yellow, blue, megenta and cyan being the 6 colour blocks shown, 
+This is the code to pick the colours used on the project using [ANSI colour](https://ss64.com/nt/syntax-ansi.html) with red, green, yellow, blue, megenta and cyan being the 6 colour blocks shown 
 
 ## *Algorithms/ Vectors/ Iterators*
 ## *Demo*
