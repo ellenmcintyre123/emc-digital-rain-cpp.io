@@ -1,7 +1,7 @@
 ------
  My Digtial Rain Project
 ------
-As part of my fourth year C++ module we were tasked with creating a unique Digtial Rain Project
+As part of my fourth year C++ module we were tasked with creating a unique Digtial Rain Project. The project was developed with a focus on using Object-Oriented Programming (OOP) principles and modern C++ features, ensuring that the code is modular, reusable, and easily maintainable.
 
 ## *Introduction* 
 When brainstorming project ideas, we were shown examples from past years for inspiration. This is where I discovered the concept for my first main component: colors. I knew I wanted a bright, random color display, which kickstarted my search for a way to bring this vision to life. I wanted something unique, something I hadn’t encountered during my research. Eventually, I settled on the idea of using downward slashes (|), which I felt would create a realistic, fast-paced downpour—something common in Ireland. 
@@ -32,7 +32,20 @@ This is the code to pick the colours used on the project using [ANSI colour](htt
 
 
 This section of code changes the text colour in the terminal, the colour number is used to pick a specific colour and the '\33' and 'm' tells the terminal to change the colour. 
+## *Algorithm*
+I have made use of multiple algorithms in my project
+-Initialize screen size
+-Randomly generate raindrops
+-sets the colours
+-controls the speed
 
+## *Modern C++/ Object-Oriented Programming*
+- Random Number Generation with <random> sdt::mt19937 and std::uniform_int_distribution
+- Timing with std::chrono and std::this_thread::sleep_for
+- I used constructor initialization lists to initialize the random number generator std::mt19937 gen and std::uniform_int_distribution<> dis
+- All the core functionality is encapsulated in the DigitalRain class which handles random color generation, cursor positioning, and the rain effect
+
+  
 ## *Terminal Demo*
 
 <img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/final.png" width="500" height="400"><img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/full.png" width="500" height="400">
