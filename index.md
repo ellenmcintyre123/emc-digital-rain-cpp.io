@@ -34,10 +34,10 @@ This is the code to pick the colours used on the project using [ANSI colour](htt
 This section of code changes the text colour in the terminal, the colour number is used to pick a specific colour and the '\33' and 'm' tells the terminal to change the colour. 
 ## *Algorithm*
 I have made use of multiple algorithms in my project
--Initialize screen size
--Randomly generate raindrops
--sets the colours
--controls the speed
+- Initialize screen size
+- Randomly generate raindrops
+- sets the colours
+- controls the speed
 
 ## *Modern C++/ Object-Oriented Programming*
 - Random Number Generation with <random> sdt::mt19937 and std::uniform_int_distribution
