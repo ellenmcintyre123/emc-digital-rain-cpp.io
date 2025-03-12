@@ -15,6 +15,7 @@ I wanted to have random colour pattern over picked and hardcoded colours. I ende
 
 This is my first draft of my project, to figure out how the slashes look falling down the screen, the speed and size i need for the project aswell, once i was happy with my knowledge base i started a new project and started to add the features i wanted. 
 
+
 <img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstdraft.png" width="400" height="400">
 
 I used AI to help me with my idea of the fading colours down the screen, I gave it my orginal code and asked for the colours to be added, this is what it came back with and althought it was not exactly that i had in my head i ended up prefering it and stuck with it, I wanted to understand what the added colour code did and take snippets of the code and explain it.
