@@ -18,7 +18,9 @@ I wanted to have random colour pattern over picked and hardcoded colours. I ende
 
 <img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/firstcodesnippet.png" width="400" height="100">
 
-this is the code to pick the colours used on the project using ANSI colours
+
+this is the code to pick the colours used on the project using ANSI colours 
+[ANSI colour terminal](https://ss64.com/nt/syntax-ansi.html)
 
 ## *Algorithms/ Vectors/ Iterators*
 ## *Demo*
