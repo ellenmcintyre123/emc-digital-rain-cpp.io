@@ -22,7 +22,7 @@ I used AI to help me with the idea of fading colors down the screen. I gave it m
 
 **Code Snipet for colour**
 
-<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/first.png" width="400" height="200">
+<img src="https://raw.githubusercontent.com/ellenmcintyre123/emc-digital-rain-cpp.io/main/docs/assets/images/new.png" width="400" height="200">
 
 
 This is the code to pick the colours used on the project using [ANSI colour](https://ss64.com/nt/syntax-ansi.html) with red, green, yellow, blue, megenta and cyan being the 6 colour blocks shown 
