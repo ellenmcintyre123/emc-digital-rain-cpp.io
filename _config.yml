@@ -2,8 +2,6 @@
 title: Digital Rain Modern C++ Project Blog
 author:
   name: Ellen McIntyre
-  email: g00389482@atu.ie
-description: "A blog."
 
 # Build settings
 remote_theme: jekyll/minima
