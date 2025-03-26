@@ -42,6 +42,7 @@ I have made use of multiple algorithms in my project
 - Timing with std::chrono and std::this_thread::sleep_for
 - I used constructor initialization lists to initialize the random number generator std::mt19937 gen and std::uniform_int_distribution<> dis
 - All the core functionality is encapsulated in the DigitalRain class which handles random color generation, cursor positioning, and the rain effect
+- Have an object orintated with my rain object
 
   
 ## *Terminal Demo*
