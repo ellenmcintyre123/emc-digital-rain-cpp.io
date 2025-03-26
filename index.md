@@ -1,6 +1,3 @@
-------
- My Digtial Rain Project
-------
 
 As part of my fourth year C++ module we were tasked with creating a unique Digtial Rain Project. The project was developed with a focus on using Object-Oriented Programming (OOP) principles and modern C++ features, ensuring that the code is modular, reusable, and easily maintainable.
 
